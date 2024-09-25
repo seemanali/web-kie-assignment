@@ -2,11 +2,7 @@ import React from 'react'
 
 export default function Portfolio() {
   const skills = ['JavaScript', 'React', 'Node.js', 'CSS', 'HTML', 'Git']
-  const projects = [
-    { name: 'Project 1', description: 'A brief description of Project 1' },
-    { name: 'Project 2', description: 'A brief description of Project 2' },
-    { name: 'Project 3', description: 'A brief description of Project 3' },
-  ]
+ 
 
   return (
     <div className="container">
